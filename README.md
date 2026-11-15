@@ -1,1 +1,1 @@
-this is file is for caresync project
+this file is for caresync project
